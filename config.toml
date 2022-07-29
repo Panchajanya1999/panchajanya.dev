@@ -1,0 +1,4 @@
+baseURL = 'http://panchajanya.dev'
+languageCode = 'en-us'
+title = 'Panchajanya Sarkar'
+theme='hugo-coder'

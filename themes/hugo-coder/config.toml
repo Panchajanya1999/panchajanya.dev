@@ -1,0 +1,87 @@
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
+
+[params]
+author = "Panchajanya Sarkar"
+description = "Panchajanya's' personal website"
+info = ["Aspiring Data Scientist", "Linux Kernel Developer", "Open Source Enthusiast", "Amateur Photographer"]
+avatarURL = "images/avatar.jpg"
+
+since = 2019
+
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+# Custom JS
+customJS = []
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/panchajanya1999/"
+
+[[params.social]]
+name = "Gitlab"
+icon = "fa fa-2x fa-gitlab"
+weight = 2
+url = "https://gitlab.com/panchajanya1999/"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/panchajanya0608/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/panchajanya1999/"
+
+[[params.social]]
+name = "Medium"
+icon = "fa fa-2x fa-medium"
+weight = 5
+url = "https://medium.com/@panchajanya1999"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[menu.main]]
+name = "Resume"
+weight = 2
+url = "resume.pdf"
+
+[[menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
+
+[[menu.main]]
+name = "Contact me"
+weight = 5
+url = "contact/"
+
+[module]
+[module.hugoVersion]
+min = "0.77.0"
