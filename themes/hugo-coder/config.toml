@@ -51,16 +51,22 @@ weight = 3
 url = "https://twitter.com/panchajanya0608/"
 
 [[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 4
+url = "https://instagram.com/panchajanya1999/"
+
+[[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
-weight = 4
+weight = 5
 url = "https://www.linkedin.com/in/panchajanya1999/"
 
 [[params.social]]
-name = "Medium"
-icon = "fa fa-2x fa-medium"
-weight = 5
-url = "https://medium.com/@panchajanya1999"
+name = "Dev.TO"
+icon = "fa-brands fa-2x fa-dev"
+weight = 6
+url = "https://dev.to/panchajanya1999"
 
 [[menu.main]]
 name = "About"
