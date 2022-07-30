@@ -9,7 +9,7 @@ enableEmoji = true
 [params]
 author = "Panchajanya Sarkar"
 description = "Panchajanya's' personal website"
-info = ["Aspiring Data Scientist", "Linux Kernel Developer", "Open Source Enthusiast", "Amateur Photographer"]
+# info = ["Aspiring Data Scientist", "Linux Kernel Developer", "Open Source Enthusiast", "Amateur Photographer"]
 avatarURL = "images/avatar.jpg"
 
 since = 2019
@@ -34,31 +34,31 @@ author = "authors"
 
 [[params.social]]
 name = "Github"
-icon = "fa fa-2x fa-github"
+icon = "fa-brands fa-2x fa-github"
 weight = 1
 url = "https://github.com/panchajanya1999/"
 
 [[params.social]]
 name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
+icon = "fa-brands fa-2x fa-gitlab"
 weight = 2
 url = "https://gitlab.com/panchajanya1999/"
 
 [[params.social]]
 name = "Twitter"
-icon = "fa fa-2x fa-twitter"
+icon = "fa-brands fa-2x fa-twitter"
 weight = 3
 url = "https://twitter.com/panchajanya0608/"
 
 [[params.social]]
 name = "Instagram"
-icon = "fa fa-2x fa-instagram"
+icon = "fa-brands fa-2x fa-instagram"
 weight = 4
 url = "https://instagram.com/panchajanya1999/"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
+icon = "fa-brands fa-2x fa-linkedin"
 weight = 5
 url = "https://www.linkedin.com/in/panchajanya1999/"
 
@@ -67,6 +67,12 @@ name = "Dev.TO"
 icon = "fa-brands fa-2x fa-dev"
 weight = 6
 url = "https://dev.to/panchajanya1999"
+
+[[params.social]]
+name = "XDA"
+icon = "fa-solid fa-2x fa-code"
+weight = 7
+url = "https://forum.xda-developers.com/m/panchajanya1999.8624446/"
 
 [[menu.main]]
 name = "About"
