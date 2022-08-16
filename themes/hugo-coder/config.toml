@@ -85,9 +85,9 @@ weight = 2
 url = "resume.pdf"
 
 [[menu.main]]
-name = "Projects"
+name = "Machine"
 weight = 3
-url = "projects/"
+url = "machine/"
 
 [[menu.main]]
 name = "Contact me"

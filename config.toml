@@ -1,4 +1,5 @@
 baseURL = 'http://panchajanya.dev'
 languageCode = 'en-us'
 title = 'Panchajanya Sarkar'
-theme='hugo-coder'
+keywords = "blog,developer,personal,panchajanya1999"
+theme = 'hugo-coder'
