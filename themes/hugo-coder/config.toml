@@ -84,9 +84,9 @@ weight = 3
 url = "machine/"
 
 [[menu.main]]
-name = "Contact me"
+name = "Blog"
 weight = 5
-url = "contact/"
+url = "blog/"
 
 [module]
 [module.hugoVersion]
