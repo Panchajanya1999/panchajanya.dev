@@ -88,6 +88,11 @@ name = "Blog"
 weight = 5
 url = "blog/"
 
+[[menu.main]]
+name = "Archives"
+weight = 6
+url = "archives/"
+
 [module]
 [module.hugoVersion]
 min = "0.77.0"
