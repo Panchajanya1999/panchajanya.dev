@@ -9,7 +9,7 @@ date: 2022-08-16
 - **CPU:** Intel Core i5-7200U
 - **GPU:** Intel HD Graphics 620 | Nvidia GeForce 940MX
 - **RAM:** 16GB DDR4
-- **Keyboard:** Cosmic Byte CB-GK-17
+- **Keyboard:** Redragon K617 Fizz (Gray-White) with Cherry MX Red switches
 - **Mouse:** Live Tech Vulcan
 - **Earphones [IEM]**: KZ Zex Pro  X Crinacle | Lypertek Pureplay Z3 Levi
 
